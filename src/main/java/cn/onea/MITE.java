@@ -12,5 +12,6 @@ public class MITE implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		MITEItems.initialize();
+		MITEItemGroups.initialize();
 	}
 }
