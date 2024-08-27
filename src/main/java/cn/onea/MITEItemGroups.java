@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 import static cn.onea.MITEItems.SALAD;
 
 public final class MITEItemGroups {
-    public static final ItemGroup MiteFood = Registry.register(Registries.ITEM_GROUP, Identifier.of("tutorial", "MiteFood"), FabricItemGroup.builder()
+    public static final ItemGroup MiteFood = Registry.register(Registries.ITEM_GROUP, Identifier.of("mite", "MiteFood"), FabricItemGroup.builder()
             .icon(() -> new ItemStack(SALAD))
             .displayName(Text.translatable("itemGroup.MITE.MiteFood"))
             .entries((context, entries) -> {
