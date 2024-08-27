@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "mite",
+	"version": "${version}",
+	"name": "MITE",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"onea"
+	],
+	"contact": {
+		"homepage": "https://github.com/oneachina/MITE-Reborn",
+		"sources": "https://github.com/oneachina/MITE-Reborn"
+	},
+	"license": "GPL3.0",
+	"icon": "assets/mite/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"cn.onea.MITE"
+		]
+	},
+	"mixins": [
+		"mite.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
