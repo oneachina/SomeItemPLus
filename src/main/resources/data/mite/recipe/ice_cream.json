@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "SPS",
+    " P "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snowball"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "id": "mite:ice_cream",
+    "count": 1
+  }
+}

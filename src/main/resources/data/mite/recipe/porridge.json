@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "mite:bowl_water"
+    },
+    {
+      "item": "mite:blueberries"
+    }
+
+  ],
+  "result": {
+    "id": "mite:porridge",
+    "count": 1
+  }
+}
