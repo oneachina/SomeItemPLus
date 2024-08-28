@@ -25,7 +25,7 @@ To play the original MITE version go to [(Minecraft Is Too Easy)](https://www.mi
 
 or China [MiteMod preamplifier-打破一切](https://www.mcmod.cn/class/3751.html)
 
-_Special Note: MITE: Reborn has not been fully updated yet!_
+_Special Note: MITE: Reborn has not been fully updated yet!!_
 
 # Minecraft Mod
 fabric Api and Fabric
