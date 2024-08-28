@@ -1,4 +1,4 @@
-package cn.onea.Item;
+package cn.onea.Item.Food;
 
 import net.minecraft.item.Item;
 

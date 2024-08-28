@@ -19,7 +19,7 @@ public final class MITEItems {
             .saturationModifier(2.0F)
             .build();
     //Item
-    public static final Item WOODEN_CUDGEL = register(new SwordItem(INSTANCE, new Item.Settings()), "Wooden_Cudgel");
+    //public static final Item WOODEN_CUDGEL = register(new SwordItem(INSTANCE, new Item.Settings()), "Wooden_Cudgel");
     public static final Item SALAD = register(new Item(new Item.Settings().maxCount(4).food(SALAD_FOOD)), "salad");
     public static Item register(Item item, String id) {
         Identifier itemID = Identifier.of(MITE.MOD_ID, id);
