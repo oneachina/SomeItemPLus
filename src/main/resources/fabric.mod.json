@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "mite",
-	"version": "${version}",
+	"version": "0.0.1-AlphaV1.5",
 	"name": "MITE",
 	"description": "Minecraft Is Too Easy",
 	"authors": [
