@@ -27,9 +27,13 @@ public final class MITEItemGroups {
                 entries.add(Grape);
                 entries.add(Duck_Cooked);
                 entries.add(Duck_Meat);
-                entries.add();
-                entries.add();
-                entries.add();
+                entries.add(Sun_Flower_Seed);
+                entries.add(Crab_Leg);
+                entries.add(Crab_Meat);
+                entries.add(Belt);
+                entries.add(Sugar_Block);
+                entries.add(Wild_Fruit);
+                entries.add(Fish_Ball);
 
             })
             .build());
