@@ -3,7 +3,7 @@
 	"id": "mite",
 	"version": "0.0.1-AlphaV1.5",
 	"name": "MITE",
-	"description": "Minecraft Is Too Easy",
+	"description": "Minecraft Is Too Easy (but 1.21.1 )))) )",
 	"authors": [
 		"onea"
 	],
@@ -11,7 +11,7 @@
 		"homepage": "https://github.com/oneachina/MITE-Reborn",
 		"sources": "https://github.com/oneachina/MITE-Reborn"
 	},
-	"license": "GPL3.0",
+	"license": "CCO-1.0",
 	"icon": "assets/mite/icon.png",
 	"environment": "*",
 	"entrypoints": {
