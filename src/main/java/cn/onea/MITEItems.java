@@ -28,7 +28,15 @@ public final class MITEItems {
     public static final Item latiao = register(new Item(new Item.Settings().maxCount(16).food(Food)), "latiao");
     public static final Item Strawberry = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().snack().nutrition(2).saturationModifier(1.0F).build())), "strawberry");
     public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
-
+    public static final Item Duck_Cooked = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(6).saturationModifier(6.0F).build())), "duck_cooked");
+    public static final Item Duck_Meat = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(3).saturationModifier(3.0F).build())), "duck_Meat");
+    public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
+    public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
+    public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
+    public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
+    public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
+    public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
+    public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
     //CombatItem
 
 

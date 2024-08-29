@@ -25,6 +25,12 @@ public final class MITEItemGroups {
                 entries.add(latiao);
                 entries.add(Strawberry);
                 entries.add(Grape);
+                entries.add(Duck_Cooked);
+                entries.add(Duck_Meat);
+                entries.add();
+                entries.add();
+                entries.add();
+
             })
             .build());
     public static void initialize() {

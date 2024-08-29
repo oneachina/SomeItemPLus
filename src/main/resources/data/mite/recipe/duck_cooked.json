@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mite:duck_meat"
+  },
+  "result": {
+    "id": "mite:duck_cooked"
+  },
+  "experience": 3,
+  "cookingtime": 200
+}
