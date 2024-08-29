@@ -17,7 +17,7 @@ public final class MITEItems {
             .nutrition(2)
             .saturationModifier(2.0F)
             .build();
-    //Item
+    //FoodItem
     public static final Item SALAD = register(new Item(new Item.Settings().maxCount(4).food(Food)), "salad");
     public static final Item blueberries = register(new Item(new Item.Settings().maxCount(16).food(Food)), "blueberries");
     public static final Item bowl_water = register(new Item(new Item.Settings().maxCount(4).food(Food)), "bowl_water");
@@ -28,6 +28,11 @@ public final class MITEItems {
     public static final Item latiao = register(new Item(new Item.Settings().maxCount(16).food(Food)), "latiao");
     public static final Item Strawberry = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().snack().nutrition(2).saturationModifier(1.0F).build())), "strawberry");
     public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
+
+    //CombatItem
+
+
+
     public static Item register(Item item, String id) {
         Identifier itemID = Identifier.of(MITE.MOD_ID, id);
         Item registeredItem = Registry.register(Registries.ITEM, itemID, item);
