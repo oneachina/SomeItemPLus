@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mite:item/Sugar_Block"
+    "layer0": "mite:item/fish_ball"
   }
 }

@@ -25,8 +25,8 @@ public final class MITEItemGroups {
                 entries.add(latiao);
                 entries.add(Strawberry);
                 entries.add(Grape);
-                entries.add(Duck_Cooked);
-                entries.add(Duck_Meat);
+                entries.add(duck_Cooked);
+                entries.add(duck_Meat);
                 entries.add(Sun_Flower_Seed);
                 entries.add(Crab_Leg);
                 entries.add(Crab_Meat);

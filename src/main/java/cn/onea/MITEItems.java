@@ -28,15 +28,15 @@ public final class MITEItems {
     public static final Item latiao = register(new Item(new Item.Settings().maxCount(16).food(Food)), "latiao");
     public static final Item Strawberry = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().snack().nutrition(2).saturationModifier(1.0F).build())), "strawberry");
     public static final Item Grape = register(new Item(new Item.Settings().maxCount(16).food(Food)), "grape");
-    public static final Item Duck_Cooked = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(6).saturationModifier(6.0F).build())), "duck_cooked");
-    public static final Item Duck_Meat = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(3).saturationModifier(3.0F).build())), "duck_Meat");
-    public static final Item Sun_Flower_Seed = register(new Item(new Item.Settings().maxCount(16).food(Food)), "Sun_Flower_Seed");
-    public static final Item Crab_Leg = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().snack().nutrition(3).saturationModifier(1.0F).build())), "Crab_Leg");
-    public static final Item Crab_Meat = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(3).saturationModifier(1.0F).build())), "Crab_Meat");
-    public static final Item Belt = register(new Item(new Item.Settings().maxCount(16).food(Food)), "Belt");
-    public static final Item Sugar_Block = register(new Item(new Item.Settings().maxCount(16).food(Food)), "Sugar_Block");
-    public static final Item Wild_Fruit = register(new Item(new Item.Settings().maxCount(16).food(Food)), "Wild_Fruit");
-    public static final Item Fish_Ball = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(6).saturationModifier(6.0F).build())), "Fish_Ball");
+    public static final Item duck_Cooked = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(6).saturationModifier(6.0F).build())), "duck_cooked");
+    public static final Item duck_Meat = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(3).saturationModifier(3.0F).build())), "duck_meat");
+    public static final Item Sun_Flower_Seed = register(new Item(new Item.Settings().maxCount(16).food(Food)), "sun_flower_seed");
+    public static final Item Crab_Leg = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().snack().nutrition(3).saturationModifier(1.0F).build())), "crab_leg");
+    public static final Item Crab_Meat = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(3).saturationModifier(1.0F).build())), "crab_meat");
+    public static final Item Belt = register(new Item(new Item.Settings().maxCount(16).food(Food)), "belt");
+    public static final Item Sugar_Block = register(new Item(new Item.Settings().maxCount(16).food(Food)), "sugar_block");
+    public static final Item Wild_Fruit = register(new Item(new Item.Settings().maxCount(16).food(Food)), "wild_fruit");
+    public static final Item Fish_Ball = register(new Item(new Item.Settings().maxCount(16).food(new FoodComponent.Builder().nutrition(6).saturationModifier(6.0F).build())), "fish_ball");
     //CombatItem
 
 
